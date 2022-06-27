@@ -1,0 +1,32 @@
+body {
+  background-color:rgb(197, 238, 217);
+  width: 1000px;
+  margin: 0 auto;
+  line-height: 1.5;
+}
+
+h1 {
+  color: rebeccapurple;
+  text-align: center;
+}
+
+h2{
+  font-size: 20px;
+  text-align: left;
+  color: grey;
+}
+
+section h2 {
+  font-size: 23px;
+  text-align: left;
+  margin-bottom: 5px;
+  color: rgb(66, 2, 2);
+}
+
+img {
+  text-align: center;
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
